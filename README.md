@@ -1,1 +1,1 @@
-# TicTacToe_using_HTML_CSS_JS
+# TicTacToe
